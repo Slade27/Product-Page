@@ -119,7 +119,6 @@ img
 iframe
 {
     position: relative;
-    /* transform: scale(1); */
     margin-bottom: 1rem;
     margin-top: 2rem;
 }
