@@ -199,6 +199,7 @@ nav a
     }
     header
     {
+        
         display: flex;
         height: 20%;
         margin-top: -20rem;
@@ -206,7 +207,7 @@ nav a
 
     header img
 {
-    min-width: 55%;
+    min-width: 56%;
     min-height: 100%;
     margin-top: 10%;
     align-self: center;
